@@ -2,9 +2,6 @@ name: CI
 
 on: ["push"]
 
-env:
-  DEVELOPER_DIR: /Applications/Xcode_14.0.1app
-
 jobs:
   test:
     runs-on: "ubuntu-latest"
