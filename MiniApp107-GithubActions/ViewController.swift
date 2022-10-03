@@ -9,8 +9,6 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    //TODO: 追記する
-
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
